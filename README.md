@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharad
 - 👀 I’m interested in working and collaborating with open source projects
-- 🌱 I’m currently learning python
+- 🌱 I’m fluent with Java and currently learning python
 - 💞️ I’m looking to collaborate on anything that I can learn from.
 - 📫 Reach out to me: sksharad.jain1126@gmail.com
 
